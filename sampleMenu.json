@@ -1,0 +1,115 @@
+{
+  "chinese": [
+    {
+      "dishID": 1,
+      "dishName": "Chilly Chicken",
+      "restName": "Masabaa, Punjabi Bagh",
+      "price": 335,
+      "rating": 3.5
+    },
+    {
+      "dishID": 7,
+      "dishName": "Veg Hakka Noodles",
+      "restName": "Yo China!, Punjabi Bagh",
+      "price": 209,
+      "rating": 4.3
+    },
+    {
+      "dishID": 8,
+      "dishName": "Veg Chilly Garlic Noodles",
+      "restName": "Yo China!, Punjabi Bagh",
+      "price": 219,
+      "rating": 4.8
+    },
+    {
+      "dishID": 9,
+      "dishName": "Veg Spring Roll",
+      "restName": "Yo China!, Punjabi Bagh",
+      "price": 100,
+      "rating": 4.8
+    }
+  ],
+  "indian": [
+    {
+      "dishID": 2,
+      "dishName": "Paneer MakhanWala",
+      "restName": "Masabaa, Punjabi Bagh",
+      "price": 365,
+      "rating": 3.8
+    },
+    {
+      "dishID": 3,
+      "dishName": "Paneer Lababdaar",
+      "restName": "Masabaa, Punjabi Bagh",
+      "price": 365,
+      "rating": 4
+    },
+    {
+      "dishID": 4,
+      "dishName": "Wad's Frontier Dal",
+      "restName": "World Art Dining CookHouse, Punjabi Bagh",
+      "price": 499,
+      "rating": 5
+    },
+    {
+      "dishID": 5,
+      "dishName": "Kasoori Paneer",
+      "restName": "Suravie, Punjabi Bagh",
+      "price": 343,
+      "rating": 3.1
+    },
+    {
+      "dishID": 6,
+      "dishName": "Kumbh Ke Moti",
+      "restName": "Suravie, Punjabi Bagh",
+      "price": 343,
+      "rating": 2.9
+    }
+  ],
+  "italian": [
+    {
+      "dishID": 10,
+      "dishName": "Veg Classic Margherita Pizza",
+      "restName": "Masaba, Punjabi Bagh",
+      "price": 325,
+      "rating": 4.3
+    },
+    {
+      "dishID": 11,
+      "dishName": "Farm Fresh Pizza",
+      "restName": "Suravie, Punjabi Bagh",
+      "price": 280,
+      "rating": 4.3
+    },
+    {
+      "dishID": 12,
+      "dishName": "Farmhouse Pizza",
+      "restName": "Dominos, Punjabi Bagh",
+      "price": 210,
+      "rating": 4.8
+    },
+    {
+      "dishID": 13,
+      "dishName": "Arabieta Pasta",
+      "restName": "Big Chill, Punjabi Bagh",
+      "price": 210,
+      "rating": 4.8
+    }
+  ],
+  "afghani": [
+    {
+      "dishID": 14,
+      "dishName": "Afghani Roll",
+      "restName": "Yo China!, Punjabi Bagh",
+      "price": 150,
+      "rating": 3.8
+    },
+    {
+      "dishID": 15,
+      "dishName": "Afghani Paneer Roll",
+      "restName": "Masaba, Punjabi Bagh",
+      "price": 180,
+      "rating": 4.3
+    }
+  ]
+}
