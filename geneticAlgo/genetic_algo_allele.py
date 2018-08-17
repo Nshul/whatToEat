@@ -25,10 +25,11 @@ class Dish:
 
     # Return the information of the dish
     def __repr__(self):
+        dishId = "Dish Id:"+str(self.id)
         dishname = "Dish Name:"+str(menuData[self.id]["dishName"])
         restname = "Restaurant Name:"+str(menuData[self.id]["restName"])
         price = "Price:"+str(menuData[self.id]["price"])
         rating = "Rating:"+str(menuData[self.id]["rating"])
         quantity = "Quantity:" + str(self.qty)
         totCost = "Total Cost:" + str(menuData[self.id]["price"]*self.qty)
-        return '%s %s %s %s %s %s'%(dishname,restname,price,rating,quantity,totCost)
+        return '%s %s %s %s %s %s %s'%(dishId,dishname,restname,price,rating,quantity,totCost)
