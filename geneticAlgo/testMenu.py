@@ -1,9 +1,9 @@
 import json
-#from pprint import pprint
 
-with open('sampleMenu.json') as menu_Data:
+with open('../sampleMenu.json') as menu_Data:
     menuData = json.load(menu_Data)
 
+# This program maps dishes from sampleMenu.json into dishMap.json
 
 class Object(dict):
     __getattr__ = dict.__getitem__
@@ -22,5 +22,5 @@ for i in menuData:
 
 # print dishMap
 
-with open('dishMap.json', 'w') as outfile:
+with open('../dishMap.json', 'w') as outfile:
     json.dump(dishMap, outfile)
