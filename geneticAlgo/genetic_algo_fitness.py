@@ -83,7 +83,7 @@ class Fitness:
             self.fitness = 0
             return self.fitness
 
-        for i in genInfo["cuisines"]
+        for i in genInfo["cuisines"]:
             tempQtyFit = (1/float(1+math.exp(-1*(cuisineQty[i]-1))))
             tempRatingFit = float(cuisineRating[i]/self.ratings)
             tempCostFit = float(cuisineCost[i]/self.cost)

@@ -12,7 +12,7 @@ with open('../dishMap.json') as menu_Data:
 with open('../genInfo.json') as gen_Info:
     genInfo = json.load(gen_Info)
 
-
+# NOT USING THIS FUNCTION CURRENTLY
 # This function limits to starting dishes more so I am not using it currently
 def randSeq(n, a, b, sum):
     """
