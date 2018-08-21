@@ -87,9 +87,13 @@ class Fitness:
             tempQtyFit = (1/float(1+math.exp(-1*(cuisineQty[i]-1))))
             tempRatingFit = float(cuisineRating[i]/self.ratings)
             tempCostFit = float(cuisineCost[i]/self.cost)
-            tempCuisineScoreFit = float(self.cuisineScore[i]/self.totCuisineScore)
-            self.fitness += tempQtyFit*(tempRatingFit-tempCostFit)*tempCuisineScoreFit
-            
+            tempCuisineScoreFit = float(
+                self.cuisineScore[i]/self.totCuisineScore)
+            self.fitness += (tempQtyFit*(2*tempRatingFit -
+                                         tempCostFit)*tempCuisineScoreFit)
+
+        if self.fitness < 0:
+            self.fitness = 0
         return self.fitness
 
     def getFitness(self):
