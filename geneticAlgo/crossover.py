@@ -32,8 +32,8 @@ def crossover( matingPool, origChromosomes, noOfElite):
     newChromosome = []
     # Copy the elite chromosomes and persist them to next generation
     for i in range(0, noOfElite):
-        newChromosome.append(origChromosomes[matingPool])
-    upperBoundForCrossover = ((sizeOfMatingPool-noOfElite)/2)+1
+        newChromosome.append(origChromosomes[matingPool[i]])
+    upperBoundForCrossover = (int)((sizeOfMatingPool-noOfElite)/2)+1
     for i in range(0,upperBoundForCrossover):
         # print ("%d,%d\n" %(chromo1,chromo2))
         ind1 = matingPool[noOfElite+i]
