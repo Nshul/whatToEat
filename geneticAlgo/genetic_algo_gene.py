@@ -36,5 +36,6 @@ class Dish:
 
         dishId = "Dish Id:"+str(self.id)
         quantity = "Quantity:" + str(self.qty)
-        totCost = "Total Cost:" + str(menuData[self.id]["price"]*self.qty)
-        return '%s %s %s'%(dishId,quantity,totCost)
+        # totCost = "Total Cost:" + str(menuData[self.id]["price"]*self.qty)
+        # return '%s %s %s'%(dishId,quantity,totCost)
+        return '%s %s'%(dishId,quantity)
