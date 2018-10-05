@@ -4,12 +4,19 @@ def selection ( population, noOfElite ):
     """
     This selection algorithm uses Roulette Wheel Algorithm to
     determine mating pool for selection
+
+    population -> pool of population of chromosomes in sorted order
+                  (max fitness chromosome at 0th index)
+    noOfElite -> Number of chromosomes that we want to persist in
+                 next generation due to elitism
+
+    returns mating pool consisting of array of indices of chromosomes
+    belonging to current generation
     """
     matingPool = []
     popuPd = pd.DataFrame(np.array(population),columns = ["Index","Fitness"])
-    popuPd["cum_sum"] = pd.Fitness.cumsum()
+    popuPd["cum_sum"] = popuPd.Fitness.cumsum()
     popuPd["cum_perc"] = 100*popuPd.cum_sum/popuPd.Fitness.sum()
-    print (popuPd)
 
     for i in range(0,noOfElite):
         matingPool.append(population[i][0])

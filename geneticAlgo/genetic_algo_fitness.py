@@ -2,11 +2,11 @@ import json
 import math
 
 # Import the dish mapping
-with open('../dishMap.json') as menu_Data:
+with open('dishMap.json') as menu_Data:
     menuData = json.load(menu_Data)
 
 # Import genInfo of cuisines and number of dishes
-with open('../genInfo.json') as gen_info:
+with open('genInfo.json') as gen_info:
     genInfo = json.load(gen_info)
 
 

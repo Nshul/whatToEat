@@ -4,12 +4,12 @@ This program create a chromosome
 import json
 import random
 
-from genetic_algo_allele import Dish
+from genetic_algo_gene import Dish
 
-with open('../dishMap.json') as menu_Data:
+with open('dishMap.json') as menu_Data:
     menuData = json.load(menu_Data)
 
-with open('../genInfo.json') as gen_Info:
+with open('genInfo.json') as gen_Info:
     genInfo = json.load(gen_Info)
 
 # NOT USING THIS FUNCTION CURRENTLY
@@ -39,6 +39,13 @@ def randSeq(n, a, b, sum):
 def randSeq2(n, sum):
     """
     Generate the random sequence of quantities for the dishes
+
+    n -> total number of dishes in menu
+    sum -> total number of dishes that can be ordered
+
+    returns a list containing quantity of dish to be ordered
+    with each index matching the index of corresponding dish 
+    in menu database
     """
     sequence = [0]*n
     i=0
@@ -55,6 +62,8 @@ def createChromosome( totQty ):
     sum of all Qty equals to the number of dishes to be ordered
 
     totQty = Number of Dishes to be Ordered
+
+    returns chromosome of dish id and corresponding quantity
     """
     chromosome = []
     qtySeq = randSeq2(genInfo["totalDishes"],totQty)

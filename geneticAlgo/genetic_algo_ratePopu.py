@@ -1,10 +1,17 @@
 from genetic_algo_fitness import Fitness
-from genetic_algo_initial_popu import createInitialPopu
+# from genetic_algo_initial_popu import createInitialPopu
 
 def rankDishes(population, cuisineScore):
     """
     Ranks the population using the Fitness class
     and the method to calculate fitness
+
+    population -> initial population of chromosomes
+    cuisineScore -> object consisting of score that is rated
+                    by users with key as cuisine name
+
+    returns array consisting of (chromosome index,fitness) pairs
+    in sorted order (chromosome with max fitness at 0th index)
     """
     fitnessResults = {}
     for i in range(0,len(population)):
