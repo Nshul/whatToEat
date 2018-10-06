@@ -1,6 +1,9 @@
-import numpy as np, pandas as pd, random
+import numpy as np
+import pandas as pd
+import random
 
-def selection ( population, noOfElite ):
+
+def selection(population, noOfElite):
     """
     This selection algorithm uses Roulette Wheel Algorithm to
     determine mating pool for selection
@@ -14,19 +17,18 @@ def selection ( population, noOfElite ):
     belonging to current generation
     """
     matingPool = []
-    popuPd = pd.DataFrame(np.array(population),columns = ["Index","Fitness"])
+    popuPd = pd.DataFrame(np.array(population), columns=["Index", "Fitness"])
     popuPd["cum_sum"] = popuPd.Fitness.cumsum()
     popuPd["cum_perc"] = 100*popuPd.cum_sum/popuPd.Fitness.sum()
 
-    for i in range(0,noOfElite):
+    for i in range(0, noOfElite):
         matingPool.append(population[i][0])
-    for i in range(0,len(population) - noOfElite):
-        circlePieToBePicked = 100*random.random()
+    for i in range(0, len(population) - noOfElite):
+        pieToBePickedInCircle = 100*random.random()
         for i in range(0, len(population)):
-            if circlePieToBePicked <= popuPd.iat[i,3]:
+            if pieToBePickedInCircle <= popuPd.iat[i, 3]:
                 matingPool.append(population[i][0])
                 break
-    
     return matingPool
 
 
