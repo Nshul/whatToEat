@@ -1,4 +1,4 @@
-import random, math
+import random
 
 def breed(chromosome1, chromosome2):
     """
