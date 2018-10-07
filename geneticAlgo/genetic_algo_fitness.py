@@ -10,9 +10,6 @@ with open('genInfo.json') as gen_info:
     genInfo = json.load(gen_info)
 
 
-class Object(dict):
-    pass
-
 
 class Fitness:
     """
@@ -20,7 +17,7 @@ class Fitness:
     and calculate the fitness of chromosome
     """
 
-    def __init__(self, dishes, cuisineScore):
+    def __init__(self, dishes, cuisineScore, MaxQtyToBeOrdered):
         """
         dishes = list of dishes i.e. chromosome
         cuisineScore  = the score obtained per cuisine using 
@@ -35,6 +32,7 @@ class Fitness:
         self.cost = 0
         self.fitness = 0
         self.cuisineScore = cuisineScore
+        self.MaxQtyToBeOrdered = MaxQtyToBeOrdered
         self.totCuisineScore = 0
         self.fitnessSet = False
         for i in cuisineScore:
@@ -47,9 +45,9 @@ class Fitness:
         cuisineRating = object holding individual ratings per cuisine
         cuisineCost = object holding individual cost per cuisine
         """
-        cuisineQty = Object()
-        cuisineRating = Object()
-        cuisineCost = Object()
+        cuisineQty = {}
+        cuisineRating = {}
+        cuisineCost = {}
         for i in genInfo["cuisines"]:
             cuisineQty[i] = 0
             cuisineRating[i] = 0
@@ -71,29 +69,38 @@ class Fitness:
                 cuisineQty[tempCuisine] += quantity
 
                 # Add rating to respective Cuisine as well as total Rating sum
-                self.ratings += tempRating
-                cuisineRating[tempCuisine] += tempRating
+                self.ratings += tempRating*quantity
+                cuisineRating[tempCuisine] += tempRating*quantity
 
                 # Add cost to respective Cuisine as well as total Rating sum
                 self.cost += tempPrice*quantity
                 cuisineCost[tempCuisine] += tempPrice*quantity
 
-        # totalQty exceeds the desired number of dishes thus, assign 0 fitness
-        if totalQty > genInfo["totalDishes"]:
+        if (totalQty == 0):
             self.fitness = 0
             return self.fitness
 
+        # for i in self.dishes:
+        #     if (i.qty>0):
+        #         PopuWithFitness.write("%s " %str(i))
+
         for i in genInfo["cuisines"]:
-            tempQtyFit = (1/float(1+math.exp(-1*(cuisineQty[i]-1))))
+            tempQtyFit = float(1/float(1+math.exp(-1*(cuisineQty[i]-1))))
             tempRatingFit = float(cuisineRating[i]/self.ratings)
             tempCostFit = float(cuisineCost[i]/self.cost)
             tempCuisineScoreFit = float(
                 self.cuisineScore[i]/self.totCuisineScore)
-            self.fitness += (tempQtyFit*(2*tempRatingFit -
-                                         tempCostFit)*tempCuisineScoreFit)
+            # self.fitness += (tempQtyFit*(2*tempRatingFit -
+            #                              tempCostFit)*tempCuisineScoreFit)
+            tempCuisineFitness = tempCuisineScoreFit*(-2*tempCostFit+3*tempRatingFit+2*tempQtyFit)
+            # PopuWithFitness.write("%s %s \n" %(i,str(tempCuisineFitness)))
+            self.fitness += tempCuisineFitness
 
-        if self.fitness < 0:
-            self.fitness = 0
+        if (totalQty > self.MaxQtyToBeOrdered):
+            self.fitness = -1*self.fitness
+        
+        # PopuWithFitness.write("Fitness: %s\n\n**\n" %self.fitness)
+
         return self.fitness
 
     def getFitness(self):
