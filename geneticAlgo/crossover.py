@@ -33,16 +33,19 @@ def crossover( matingPool, origChromosomes, noOfElite):
     # Copy the elite chromosomes and persist them to next generation
     for i in range(0, noOfElite):
         newChromosome.append(origChromosomes[matingPool[i]])
-    upperBoundForCrossover = (int)((sizeOfMatingPool-noOfElite)/2)+1
-    for i in range(0,upperBoundForCrossover):
-        # print ("%d,%d\n" %(chromo1,chromo2))
-        ind1 = matingPool[noOfElite+i]
-        ind2 = matingPool[sizeOfMatingPool-1-i]
+    LowerPtrForCrossover = noOfElite
+    UpperPtrForCrossover = sizeOfMatingPool-1
+    while (LowerPtrForCrossover<UpperPtrForCrossover):
+        ind1 = matingPool[LowerPtrForCrossover]
+        ind2 = matingPool[UpperPtrForCrossover]
         tempChromo1 = origChromosomes[ind1]
         tempChromo2 = origChromosomes[ind2]
         breed(tempChromo1,tempChromo2)
         newChromosome.append(tempChromo1)
         newChromosome.append(tempChromo2)
+        LowerPtrForCrossover+=1
+        UpperPtrForCrossover-=1
+
     return newChromosome
 
 # Breed function test
