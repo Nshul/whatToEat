@@ -1,7 +1,7 @@
 from genetic_algo_fitness import Fitness
 # from genetic_algo_initial_popu import createInitialPopu
 
-def rankDishes(population, cuisineScore):
+def rankDishes(population, cuisineScore, MaxQtyToBeOrdered):
     """
     Ranks the population using the Fitness class
     and the method to calculate fitness
@@ -15,7 +15,7 @@ def rankDishes(population, cuisineScore):
     """
     fitnessResults = {}
     for i in range(0,len(population)):
-        fitnessResults[i] = Fitness(population[i], cuisineScore).calcFitness()
+        fitnessResults[i] = Fitness(population[i], cuisineScore, MaxQtyToBeOrdered).calcFitness()
     return sorted(fitnessResults.items(), key=lambda x: x[1], reverse=True)
 
 # temp = createInitialPopu(4, 10)
