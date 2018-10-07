@@ -4,7 +4,7 @@ from crossover import crossover
 from mutate import mutatePopulation
 
 
-def nextGeneration(currentPopulation, cuisineScore, noOfElite, mutationRate):
+def nextGeneration(currentPopulation, cuisineScore, maxQtyToBeOrdered, noOfElite, mutationRate):
     """
     This function applies genetic operators over current generation to produce 
     new generation
@@ -16,7 +16,7 @@ def nextGeneration(currentPopulation, cuisineScore, noOfElite, mutationRate):
 
     returns new generation of chromosomes
     """
-    populationRanked = rankDishes(currentPopulation, cuisineScore)
+    populationRanked = rankDishes(currentPopulation, cuisineScore, maxQtyToBeOrdered)
     selectedPopulationPool = selection(populationRanked, noOfElite)
     populationAfterCrossover = crossover(
         selectedPopulationPool, currentPopulation, noOfElite)
