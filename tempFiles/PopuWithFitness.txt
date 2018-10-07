@@ -1,0 +1,1407 @@
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:7 Quantity:2 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 indian 0.03258700675804651 
+chinese 0.3730958025947588 
+italian 0.9964701944435993 
+afghani 0.04781180824355469 
+Fitness: 1.4499648120399593
+
+**
+Dish Id:9 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:2 Dish Id:10 Quantity:1 indian 0.035039098225670764 
+chinese 0.38058106932530983 
+italian 0.8802634899965437 
+afghani 0.04781180824355469 
+Fitness: 1.343695465791079
+
+**
+Dish Id:12 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.02836987201428867 
+chinese 0.33050160903161385 
+italian 1.4557062888276495 
+afghani 0.04781180824355469 
+Fitness: 1.8623895781171065
+
+**
+Dish Id:11 Quantity:3 Dish Id:1 Quantity:2 Dish Id:13 Quantity:1 indian 0.011952952060888672 
+chinese 0.23850552739501396 
+italian 2.0782781007537485 
+afghani 0.04781180824355469 
+Fitness: 2.3765483884532057
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.011952952060888672 
+chinese 0.3501747081192236 
+italian 1.6661811380778295 
+afghani 0.04781180824355469 
+Fitness: 2.076120606501496
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:3 Quantity:1 Dish Id:10 Quantity:1 indian 0.044993310657920935 
+chinese 0.0836706644262207 
+italian 1.8322255103570637 
+afghani 0.04781180824355469 
+Fitness: 2.00870129368476
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:2 Dish Id:12 Quantity:2 Dish Id:11 Quantity:1 indian 0.020470652762027586 
+chinese 0.0836706644262207 
+italian 1.7341055206958025 
+afghani 0.17225267489077037 
+Fitness: 2.010499512774821
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:2 indian 0.028223085882729575 
+chinese 0.0836706644262207 
+italian 1.970640129597624 
+afghani 0.11257208072289307 
+Fitness: 2.195105960629467
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 indian 0.03128413700236636 
+chinese 0.3929937589291217 
+italian 0.3944474180093262 
+afghani 0.11462548425339097 
+Fitness: 0.9333507981942053
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:2 Dish Id:7 Quantity:1 indian 0.021191678208163936 
+chinese 0.19065928010841562 
+italian 1.7025456281414069 
+afghani 0.11205766280957276 
+Fitness: 2.0264542492675592
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:3 Quantity:2 Dish Id:10 Quantity:1 Dish Id:13 Quantity:1 indian 0.042678980350636 
+chinese 0.0836706644262207 
+italian 1.4505105025190643 
+afghani 0.11779451825472918 
+Fitness: 1.69465466555065
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:2 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 indian 0.02768048806666273 
+chinese 0.41917865382223013 
+italian 0.9411375840440414 
+afghani 0.04781180824355469 
+Fitness: 1.435808534176489
+
+**
+Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:2 indian 0.011952952060888672 
+chinese 0.350336578217665 
+italian 0.7839437997421191 
+afghani 0.1691140732201419 
+Fitness: 1.3153474032408148
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:14 Quantity:2 indian 0.030969853259736814 
+chinese 0.0836706644262207 
+italian 0.8631114571169066 
+afghani 0.23583091090949648 
+Fitness: 1.2135828857123605
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:13 Quantity:1 indian 0.018277946865282623 
+chinese 0.3146443992084183 
+italian 1.3788572116890383 
+afghani 0.10655581124885558 
+Fitness: 1.8183353690115949
+
+**
+Dish Id:2 Quantity:1 Dish Id:8 Quantity:2 Dish Id:9 Quantity:2 Dish Id:1 Quantity:1 indian 0.019657738794721623 
+chinese 0.47902234089318674 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.9409393059407892
+
+**
+Dish Id:15 Quantity:2 Dish Id:12 Quantity:1 Dish Id:7 Quantity:2 Dish Id:1 Quantity:1 indian 0.011952952060888672 
+chinese 0.3183913556842072 
+italian 0.9146467475879242 
+afghani 0.17152570453933627 
+Fitness: 1.4165167598723565
+
+**
+Dish Id:2 Quantity:2 Dish Id:11 Quantity:1 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 indian 0.04642953164910891 
+chinese 0.17605236562149373 
+italian 1.4685859330553612 
+afghani 0.04781180824355469 
+Fitness: 1.7388796385695184
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:3 Quantity:3 indian 0.04351513788107237 
+chinese 0.19831390920059186 
+italian 1.4598136505276755 
+afghani 0.04781180824355469 
+Fitness: 1.7494545058528943
+
+**
+Dish Id:4 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:3 indian 0.05031164630273409 
+chinese 0.35142554662265485 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.8439964191782698
+
+**
+Dish Id:12 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:2 Dish Id:10 Quantity:1 indian 0.028675225135915975 
+chinese 0.3415526471206203 
+italian 1.393531884822918 
+afghani 0.04781180824355469 
+Fitness: 1.8115715653230087
+
+**
+Dish Id:2 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.046149239844777944 
+chinese 0.1691189161238 
+italian 1.5105218245159813 
+afghani 0.04781180824355469 
+Fitness: 1.7736017887281137
+
+**
+Dish Id:12 Quantity:2 Dish Id:9 Quantity:2 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.011952952060888672 
+chinese 0.3347190635525483 
+italian 1.41411313253539 
+afghani 0.10165420576379482 
+Fitness: 1.8624393539126216
+
+**
+Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:2 Dish Id:13 Quantity:1 indian 0.022492716468620083 
+chinese 0.4021006935268066 
+italian 0.9592315206773039 
+afghani 0.04781180824355469 
+Fitness: 1.4316367389162852
+
+**
+Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:2 Dish Id:14 Quantity:2 indian 0.011952952060888672 
+chinese 0.3690256090181724 
+italian 0.3944474180093262 
+afghani 0.17732959327639847 
+Fitness: 0.9527555723647858
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:6 Quantity:1 Dish Id:13 Quantity:1 indian 0.018352764057609872 
+chinese 0.32427071708344274 
+italian 1.6963756066827838 
+afghani 0.04781180824355469 
+Fitness: 2.086810896067391
+
+**
+Dish Id:15 Quantity:2 Dish Id:7 Quantity:1 Dish Id:6 Quantity:2 Dish Id:14 Quantity:1 indian 0.027976400779496195 
+chinese 0.19846157901673914 
+italian 0.3944474180093262 
+afghani 0.2390176748090902 
+Fitness: 0.8599030726146517
+
+**
+Dish Id:2 Quantity:2 Dish Id:15 Quantity:2 Dish Id:12 Quantity:1 Dish Id:6 Quantity:1 indian 0.03940974436033471 
+chinese 0.0836706644262207 
+italian 0.9877123776878538 
+afghani 0.18696820461971744 
+Fitness: 1.2977609910941266
+
+**
+Dish Id:2 Quantity:1 Dish Id:11 Quantity:4 Dish Id:8 Quantity:1 indian 0.02252126020550521 
+chinese 0.2023929104341813 
+italian 1.899769126225328 
+afghani 0.04781180824355469 
+Fitness: 2.172495105108569
+
+**
+Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.03356940839247323 
+chinese 0.16541141316615743 
+italian 1.5005638043057548 
+afghani 0.1159136429076705 
+Fitness: 1.815458268772056
+
+**
+Dish Id:15 Quantity:2 Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 indian 0.02829788209971138 
+chinese 0.3297035381805886 
+italian 0.3944474180093262 
+afghani 0.17719324727523347 
+Fitness: 0.9296420855648596
+
+**
+Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 indian 0.030105990508981814 
+chinese 0.3116353384708481 
+italian 0.9568762781186094 
+afghani 0.11211230402181323 
+Fitness: 1.4107299111202527
+
+**
+Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:2 Dish Id:3 Quantity:1 Dish Id:10 Quantity:1 indian 0.03322963636903669 
+chinese 0.3266933486592187 
+italian 1.3132872925908279 
+afghani 0.04781180824355469 
+Fitness: 1.721022085862638
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:14 Quantity:1 indian 0.04025239640535016 
+chinese 0.22796730654550032 
+italian 0.878361994787701 
+afghani 0.114396964238181 
+Fitness: 1.2609786619767325
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:2 Dish Id:3 Quantity:1 indian 0.03774002102540736 
+chinese 0.3680197855526617 
+italian 0.8503505182477205 
+afghani 0.04781180824355469 
+Fitness: 1.303922133069344
+
+**
+Dish Id:2 Quantity:1 Dish Id:11 Quantity:3 Dish Id:9 Quantity:1 Dish Id:13 Quantity:1 indian 0.02114693091615879 
+chinese 0.22019127134513197 
+italian 1.8612154341935638 
+afghani 0.04781180824355469 
+Fitness: 2.150365444698409
+
+**
+Dish Id:5 Quantity:2 Dish Id:11 Quantity:2 Dish Id:8 Quantity:1 Dish Id:13 Quantity:1 indian 0.031229061369228504 
+chinese 0.20668221732865724 
+italian 1.8258035799576433 
+afghani 0.04781180824355469 
+Fitness: 2.1115266668990835
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 indian 0.03113843950858797 
+chinese 0.28192053246369847 
+italian 1.0043452477222494 
+afghani 0.11920858267292038 
+Fitness: 1.4366128023674563
+
+**
+Dish Id:12 Quantity:2 Dish Id:4 Quantity:1 Dish Id:11 Quantity:2 Dish Id:9 Quantity:1 indian 0.020081526382983002 
+chinese 0.21585250862008304 
+italian 1.9168279509207387 
+afghani 0.04781180824355469 
+Fitness: 2.2005737941673593
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:6 Quantity:2 Dish Id:3 Quantity:1 indian 0.04687340669003219 
+chinese 0.2193741091900601 
+italian 0.3944474180093262 
+afghani 0.12316291751874574 
+Fitness: 0.7838578514081642
+
+**
+Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:2 Dish Id:14 Quantity:1 indian 0.020280163717069234 
+chinese 0.30394074452697645 
+italian 1.3445016413861506 
+afghani 0.10882762949725536 
+Fitness: 1.7775501791274517
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:7 Quantity:1 Dish Id:13 Quantity:1 indian 0.03126710800714909 
+chinese 0.19101089932331214 
+italian 1.4862406340594791 
+afghani 0.11223070849291213 
+Fitness: 1.8207493498828526
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:2 Dish Id:4 Quantity:1 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.04135396425965977 
+chinese 0.0836706644262207 
+italian 0.9651805427669033 
+afghani 0.18192245652798697 
+Fitness: 1.2721276279807707
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:2 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 indian 0.028697319034641726 
+chinese 0.3409758816242017 
+italian 1.3955218235052271 
+afghani 0.04781180824355469 
+Fitness: 1.8130068324076252
+
+**
+Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:1 Quantity:3 Dish Id:13 Quantity:1 indian 0.023276537363958353 
+chinese 0.39130488721192225 
+italian 0.9842599466155958 
+afghani 0.04781180824355469 
+Fitness: 1.4466531794350312
+
+**
+Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:2 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 indian 0.020161129103194595 
+chinese 0.3249439451455677 
+italian 1.6335257707427555 
+afghani 0.04781180824355469 
+Fitness: 2.0264426532350726
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:9 Quantity:2 Dish Id:7 Quantity:1 Dish Id:14 Quantity:1 indian 0.026355109788474884 
+chinese 0.43728168297005227 
+italian 0.3944474180093262 
+afghani 0.10903420794271083 
+Fitness: 0.9671184187105641
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.04191418738696996 
+chinese 0.30929962595054916 
+italian 0.9894266378689706 
+afghani 0.04781180824355469 
+Fitness: 1.3884522594500441
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:2 indian 0.032608749565926 
+chinese 0.1609571834736521 
+italian 1.5538028826736932 
+afghani 0.11584833070350631 
+Fitness: 1.8632171464167775
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:2 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:3 Quantity:1 indian 0.02105088938831687 
+chinese 0.3211176884486842 
+italian 1.6222017486190288 
+afghani 0.04781180824355469 
+Fitness: 2.0121821346995845
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 indian 0.03881567965444889 
+chinese 0.3363427495105002 
+italian 0.964188381973825 
+afghani 0.04781180824355469 
+Fitness: 1.3871586193823289
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:2 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 indian 0.051976480762730634 
+chinese 0.20462548572959935 
+italian 0.9172218500156327 
+afghani 0.04781180824355469 
+Fitness: 1.2216356247515172
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:1 Dish Id:4 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 indian 0.04527960392884698 
+chinese 0.16746787381492317 
+italian 0.3944474180093262 
+afghani 0.1875155508984391 
+Fitness: 0.7947104466515355
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:1 Quantity:3 indian 0.02255151499470674 
+chinese 0.3898212621839151 
+italian 1.0151799170757898 
+afghani 0.04781180824355469 
+Fitness: 1.4753645024979662
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.018505158653433017 
+chinese 0.21899437140156397 
+italian 1.6923478872858384 
+afghani 0.10784835009022944 
+Fitness: 2.0376957674310647
+
+**
+Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 indian 0.032324913131708766 
+chinese 0.39350236872682043 
+italian 0.9089169009187396 
+afghani 0.04781180824355469 
+Fitness: 1.3825559910208236
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:10 Quantity:1 Dish Id:13 Quantity:1 indian 0.030431931446724615 
+chinese 0.19983856173179235 
+italian 1.4295743866398865 
+afghani 0.11739567226633821 
+Fitness: 1.7772405520847416
+
+**
+Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:14 Quantity:1 indian 0.040930578905639746 
+chinese 0.1998579224385676 
+italian 0.9857163615228133 
+afghani 0.11473408892763731 
+Fitness: 1.341238951794658
+
+**
+Dish Id:2 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:2 indian 0.023231696037995252 
+chinese 0.3757174461320516 
+italian 1.2928362715294817 
+afghani 0.04781180824355469 
+Fitness: 1.7395972219430833
+
+**
+Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:2 Dish Id:7 Quantity:1 Dish Id:3 Quantity:1 indian 0.03412780835592617 
+chinese 0.1954309690206829 
+italian 1.783186528562785 
+afghani 0.04781180824355469 
+Fitness: 2.0605571141829486
+
+**
+Dish Id:15 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.020887051674952792 
+chinese 0.36295407554911613 
+italian 0.917792020399576 
+afghani 0.10994364954241213 
+Fitness: 1.411576797166057
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.040363719993265296 
+chinese 0.0836706644262207 
+italian 1.9850020022906998 
+afghani 0.04781180824355469 
+Fitness: 2.1568481949537404
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 indian 0.011952952060888672 
+chinese 0.34975008677752417 
+italian 1.668182924402984 
+afghani 0.04781180824355469 
+Fitness: 2.0776977714849516
+
+**
+Dish Id:15 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.011952952060888672 
+chinese 0.3107833044680467 
+italian 1.1565089488052496 
+afghani 0.16101343491004666 
+Fitness: 1.6402586402442316
+
+**
+Dish Id:2 Quantity:2 Dish Id:8 Quantity:2 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 indian 0.042973919463831035 
+chinese 0.40278963449497635 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.8880227802116883
+
+**
+Dish Id:4 Quantity:2 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 indian 0.03472478953542574 
+chinese 0.3907546761159493 
+italian 0.842674387618758 
+afghani 0.04781180824355469 
+Fitness: 1.3159656615136877
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:6 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.01915959291712304 
+chinese 0.22341943531702568 
+italian 1.626813124006115 
+afghani 0.1106456127540465 
+Fitness: 1.9800377649943102
+
+**
+Dish Id:15 Quantity:2 Dish Id:7 Quantity:2 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.02048881561076683 
+chinese 0.28568379322091986 
+italian 0.9118449030644152 
+afghani 0.17086880653462108 
+Fitness: 1.388886318430723
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:2 Dish Id:3 Quantity:1 Dish Id:10 Quantity:2 indian 0.05317312378809258 
+chinese 0.0836706644262207 
+italian 1.4479482163231878 
+afghani 0.04781180824355469 
+Fitness: 1.6326038127810558
+
+**
+Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.03444651021185554 
+chinese 0.2890904702189233 
+italian 0.8722371214660857 
+afghani 0.11789229878401852 
+Fitness: 1.313666400680883
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:3 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.03012784335950698 
+chinese 0.19943414619844463 
+italian 0.9491875013743211 
+afghani 0.17707183257121617 
+Fitness: 1.3558213235034888
+
+**
+Dish Id:15 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.030197827375610276 
+chinese 0.3093724536214662 
+italian 0.9522156024221158 
+afghani 0.11360296399954284 
+Fitness: 1.405388847418735
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 indian 0.05187311730647404 
+chinese 0.17631455411699584 
+italian 1.054098664531517 
+afghani 0.04781180824355469 
+Fitness: 1.3300981441985416
+
+**
+Dish Id:15 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:6 Quantity:2 Dish Id:3 Quantity:1 indian 0.04030681407848902 
+chinese 0.2127238500210396 
+italian 0.9037123779150887 
+afghani 0.11981706641862115 
+Fitness: 1.2765601084332385
+
+**
+Dish Id:4 Quantity:2 Dish Id:7 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.03355755658231491 
+chinese 0.19496314029487763 
+italian 1.3935199782515038 
+afghani 0.11204935815058935 
+Fitness: 1.7340900332792855
+
+**
+Dish Id:2 Quantity:1 Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:10 Quantity:1 indian 0.05152265546208396 
+chinese 0.21367901836832867 
+italian 0.8895171453543915 
+afghani 0.04781180824355469 
+Fitness: 1.202530627428359
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:3 Quantity:1 Dish Id:14 Quantity:2 indian 0.0501210735155609 
+chinese 0.0836706644262207 
+italian 0.3944474180093262 
+afghani 0.18771707579596766 
+Fitness: 0.7159562317470755
+
+**
+Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:3 Quantity:2 Dish Id:1 Quantity:1 indian 0.04706903849003934 
+chinese 0.2900227418480167 
+italian 0.9101932908081911 
+afghani 0.04781180824355469 
+Fitness: 1.295096879389802
+
+**
+Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:2 Dish Id:10 Quantity:1 indian 0.043179777047833386 
+chinese 0.20769766036323364 
+italian 1.4266428739721075 
+afghani 0.04781180824355469 
+Fitness: 1.7253321196267293
+
+**
+Dish Id:15 Quantity:1 Dish Id:4 Quantity:1 Dish Id:7 Quantity:1 Dish Id:14 Quantity:2 Dish Id:13 Quantity:1 indian 0.019178802440605016 
+chinese 0.18622415416406832 
+italian 0.9191724441509848 
+afghani 0.21759784889446493 
+Fitness: 1.342173249650123
+
+**
+Dish Id:12 Quantity:1 Dish Id:9 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.011952952060888672 
+chinese 0.27466041969433713 
+italian 1.6464356758096277 
+afghani 0.10781312254996465 
+Fitness: 2.040862170114818
+
+**
+Dish Id:15 Quantity:2 Dish Id:11 Quantity:1 Dish Id:3 Quantity:2 Dish Id:10 Quantity:1 indian 0.03451424838861266 
+chinese 0.0836706644262207 
+italian 1.2995124078089069 
+afghani 0.18321314844511882 
+Fitness: 1.6009104690688591
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.019365466984514603 
+chinese 0.3092665218442989 
+italian 1.3709249873630793 
+afghani 0.10624028528790434 
+Fitness: 1.8057972614797972
+
+**
+Dish Id:15 Quantity:1 Dish Id:4 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.03403188350344094 
+chinese 0.15992774479958263 
+italian 0.9719680813331341 
+afghani 0.18126947608986568 
+Fitness: 1.3471971857260232
+
+**
+Dish Id:12 Quantity:2 Dish Id:9 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.011952952060888672 
+chinese 0.21178848813703585 
+italian 1.7416894498124156 
+afghani 0.10387731217606735 
+Fitness: 2.0693082021864075
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.02006314140606707 
+chinese 0.0836706644262207 
+italian 1.7529654772239425 
+afghani 0.17159666497786819 
+Fitness: 2.0282959480340983
+
+**
+Dish Id:15 Quantity:1 Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:3 Quantity:2 indian 0.03975454619213584 
+chinese 0.33655007004224197 
+italian 0.3944474180093262 
+afghani 0.11299738400110147 
+Fitness: 0.8837494182448055
+
+**
+Dish Id:12 Quantity:1 Dish Id:7 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:2 Dish Id:10 Quantity:1 indian 0.024032453098330964 
+chinese 0.3364266582034575 
+italian 1.4516392887732035 
+afghani 0.04781180824355469 
+Fitness: 1.8599102083185466
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:6 Quantity:2 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.030836164182524044 
+chinese 0.0836706644262207 
+italian 1.849569191662832 
+afghani 0.11679503272793243 
+Fitness: 2.0808710529995094
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.03136882413211291 
+chinese 0.1970585108729801 
+italian 1.4413532448606288 
+afghani 0.11380896162514181 
+Fitness: 1.7835895414908636
+
+**
+Dish Id:5 Quantity:2 Dish Id:9 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.040789157434066164 
+chinese 0.3138823313179242 
+italian 1.0049484438685994 
+afghani 0.04781180824355469 
+Fitness: 1.4074317408641446
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 indian 0.021453524492234168 
+chinese 0.3496976811295586 
+italian 0.9487440860215055 
+afghani 0.1115010752688172 
+Fitness: 1.4313963669121155
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:9 Quantity:2 Dish Id:3 Quantity:1 Dish Id:10 Quantity:1 indian 0.029967755432618103 
+chinese 0.35402454382214615 
+italian 1.2920823005816973 
+afghani 0.04781180824355469 
+Fitness: 1.7238864080800163
+
+**
+Dish Id:12 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:2 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 indian 0.04376738625362604 
+chinese 0.16762082759525215 
+italian 1.0182556233195619 
+afghani 0.1178639036439548 
+Fitness: 1.347507740812395
+
+**
+Dish Id:12 Quantity:1 Dish Id:3 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:2 Dish Id:13 Quantity:1 indian 0.021174616418671487 
+chinese 0.0836706644262207 
+italian 1.7161105022969165 
+afghani 0.17161803461557476 
+Fitness: 1.9925738177573835
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:2 Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:3 Quantity:1 indian 0.056982976070147316 
+chinese 0.21774567996520697 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.7169878822882352
+
+**
+Dish Id:4 Quantity:1 Dish Id:11 Quantity:3 Dish Id:7 Quantity:1 Dish Id:13 Quantity:1 indian 0.02195255551342013 
+chinese 0.1928900686807399 
+italian 1.9633354921875026 
+afghani 0.04781180824355469 
+Fitness: 2.225989924625217
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:2 indian 0.01766548985918025 
+chinese 0.42482308124444107 
+italian 0.7597243385944781 
+afghani 0.10663589827199511 
+Fitness: 1.3088488079700944
+
+**
+Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:3 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.031838006025939176 
+chinese 0.2278318839206022 
+italian 1.283108406102267 
+afghani 0.11352864202796668 
+Fitness: 1.656306938076775
+
+**
+Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:3 Quantity:1 Dish Id:14 Quantity:1 indian 0.02887429118570941 
+chinese 0.41706637885954667 
+italian 0.3944474180093262 
+afghani 0.11050908470263308 
+Fitness: 0.9508971727572153
+
+**
+Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:2 Dish Id:14 Quantity:1 Dish Id:13 Quantity:2 indian 0.02105506491545894 
+chinese 0.365414554733646 
+italian 1.383611911700819 
+afghani 0.10524003623188405 
+Fitness: -1.8753215675818078
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 indian 0.03090411018164843 
+chinese 0.23564810112296145 
+italian 1.480357051264417 
+afghani 0.04781180824355469 
+Fitness: 1.7947210708125816
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:2 Dish Id:5 Quantity:1 Dish Id:11 Quantity:2 Dish Id:8 Quantity:1 Dish Id:1 Quantity:1 indian 0.020907575590269265 
+chinese 0.25790829778593444 
+italian 1.8794774351283785 
+afghani 0.10715722842929316 
+Fitness: -2.2654505369338755
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.04353815532886183 
+chinese 0.16776849020274098 
+italian 1.6030539071690637 
+afghani 0.04781180824355469 
+Fitness: 1.8621723609442213
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:3 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.03312462094883369 
+chinese 0.2858904964266273 
+italian 1.4204180297104105 
+afghani 0.167336580545078 
+Fitness: -1.9067697276309494
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:2 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 indian 0.04030078516503007 
+chinese 0.196818954248366 
+italian 1.3571408172847916 
+afghani 0.11504575163398692 
+Fitness: -1.7093063083321747
+
+**
+Dish Id:15 Quantity:2 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:2 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 indian 0.02190629451047334 
+chinese 0.3767306995131941 
+italian 0.8054928522186606 
+afghani 0.16544378691935926 
+Fitness: -1.3695736331616872
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.04354449394298267 
+chinese 0.18406890659475886 
+italian 1.7127571163686626 
+afghani 0.10563219398983957 
+Fitness: -2.0460027108962437
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:2 Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 indian 0.0400041048810498 
+chinese 0.32358835945266495 
+italian 0.9850981883400755 
+afghani 0.04781180824355469 
+Fitness: 1.3965024609173446
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:13 Quantity:1 indian 0.03167726112866671 
+chinese 0.19555168183872426 
+italian 1.4306015664913023 
+afghani 0.1147394925430951 
+Fitness: 1.7725700020017885
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:13 Quantity:1 indian 0.03167726112866671 
+chinese 0.19555168183872426 
+italian 1.4306015664913023 
+afghani 0.1147394925430951 
+Fitness: 1.7725700020017885
+
+**
+Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 indian 0.032324913131708766 
+chinese 0.39350236872682043 
+italian 0.9089169009187396 
+afghani 0.04781180824355469 
+Fitness: 1.3825559910208236
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.04353815532886183 
+chinese 0.16776849020274098 
+italian 1.6030539071690637 
+afghani 0.04781180824355469 
+Fitness: 1.8621723609442213
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:2 Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 indian 0.0400041048810498 
+chinese 0.32358835945266495 
+italian 0.9850981883400755 
+afghani 0.04781180824355469 
+Fitness: 1.3965024609173446
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:2 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.04589151905056588 
+chinese 0.26409872461486145 
+italian 1.4054281159438862 
+afghani 0.10745538991654165 
+Fitness: -1.8228737495258551
+
+**
+Dish Id:4 Quantity:2 Dish Id:6 Quantity:1 Dish Id:13 Quantity:1 indian 0.049307286014941124 
+chinese 0.0836706644262207 
+italian 1.131361942541171 
+afghani 0.04781180824355469 
+Fitness: 1.3121517012258876
+
+**
+Dish Id:15 Quantity:2 Dish Id:5 Quantity:2 Dish Id:8 Quantity:1 Dish Id:7 Quantity:2 Dish Id:13 Quantity:1 indian 0.02891062293897793 
+chinese 0.358830914284171 
+italian 0.8906286318013735 
+afghani 0.16565214987967444 
+Fitness: -1.444022318904197
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:2 Dish Id:12 Quantity:1 Dish Id:8 Quantity:1 Dish Id:6 Quantity:1 Dish Id:10 Quantity:1 indian 0.030517897207398306 
+chinese 0.1948730800782588 
+italian 1.3271734111262015 
+afghani 0.17337854741291528 
+Fitness: -1.7259429358247738
+
+**
+Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:3 Dish Id:8 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 indian 0.042746214908499024 
+chinese 0.27749165129203507 
+italian 1.670423991225734 
+afghani 0.04781180824355469 
+Fitness: -2.0384736656698226
+
+**
+Dish Id:2 Quantity:1 Dish Id:8 Quantity:2 Dish Id:9 Quantity:2 indian 0.017063013856979788 
+chinese 0.4880264091236763 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.9473486492335369
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:4 indian 0.01640673259503608 
+chinese 0.4877857624668 
+italian 0.7993032647902087 
+afghani 0.04781180824355469 
+Fitness: -1.3513075680955993
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:13 Quantity:1 indian 0.03036445275651615 
+chinese 0.23927936470309355 
+italian 1.4810469322731596 
+afghani 0.04781180824355469 
+Fitness: 1.7985025579763239
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:3 indian 0.031035233462508124 
+chinese 0.439775125596008 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.913069585311397
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:2 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:14 Quantity:2 indian 0.02806753168955165 
+chinese 0.2166814288128587 
+italian 1.3389561627783004 
+afghani 0.16928988360020683 
+Fitness: -1.7529950068809175
+
+**
+Dish Id:2 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.029066379923935574 
+chinese 0.22587326027231833 
+italian 1.3963942931883313 
+afghani 0.11200273727218751 
+Fitness: 1.7633366706567728
+
+**
+Dish Id:15 Quantity:2 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:2 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 indian 0.02190629451047334 
+chinese 0.3767306995131941 
+italian 0.8054928522186606 
+afghani 0.16544378691935926 
+Fitness: -1.3695736331616872
+
+**
+Dish Id:1 Quantity:3 indian 0.011952952060888672 
+chinese 0.4295813131486745 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.883793491462444
+
+**
+Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.011952952060888672 
+chinese 0.4043318079845357 
+italian 1.2965256351174317 
+afghani 0.04781180824355469 
+Fitness: 1.7606222034064105
+
+**
+Dish Id:2 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.029066379923935574 
+chinese 0.22587326027231833 
+italian 1.3963942931883313 
+afghani 0.11200273727218751 
+Fitness: 1.7633366706567728
+
+**
+Dish Id:12 Quantity:1 Dish Id:6 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.019629283028780642 
+chinese 0.0836706644262207 
+italian 1.5760134334247804 
+afghani 0.12708357276155138 
+Fitness: 1.8063969536413331
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:2 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 indian 0.04247877313906584 
+chinese 0.16449485844017095 
+italian 1.4546411236573407 
+afghani 0.11298649267399266 
+Fitness: -1.7746012479105702
+
+**
+Dish Id:2 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:3 indian 0.023522112685698638 
+chinese 0.27562025773438725 
+italian 1.8604122724305527 
+afghani 0.04781180824355469 
+Fitness: -2.207366451094193
+
+**
+Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:3 Quantity:2 Dish Id:14 Quantity:1 indian 0.045088377680365596 
+chinese 0.21662263013952623 
+italian 0.3944474180093262 
+afghani 0.11911494306154297 
+Fitness: 0.7752733688907609
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 indian 0.03090411018164843 
+chinese 0.23564810112296145 
+italian 1.480357051264417 
+afghani 0.04781180824355469 
+Fitness: 1.7947210708125816
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 indian 0.018183909809034435 
+chinese 0.35861700248756784 
+italian 0.9815272132320987 
+afghani 0.04781180824355469 
+Fitness: 1.4061399337722555
+
+**
+Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 indian 0.032324913131708766 
+chinese 0.39350236872682043 
+italian 0.9089169009187396 
+afghani 0.04781180824355469 
+Fitness: 1.3825559910208236
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.018977808195166212 
+chinese 0.32876231420943053 
+italian 1.2717214216961923 
+afghani 0.108675142291512 
+Fitness: 1.7281366863923011
+
+**
+Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:3 Dish Id:8 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 indian 0.042746214908499024 
+chinese 0.27749165129203507 
+italian 1.670423991225734 
+afghani 0.04781180824355469 
+Fitness: -2.0384736656698226
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 indian 0.03090411018164843 
+chinese 0.23564810112296145 
+italian 1.480357051264417 
+afghani 0.04781180824355469 
+Fitness: 1.7947210708125816
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:2 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 indian 0.04247877313906584 
+chinese 0.16449485844017095 
+italian 1.4546411236573407 
+afghani 0.11298649267399266 
+Fitness: -1.7746012479105702
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 indian 0.04029926210559563 
+chinese 0.37758878953879427 
+italian 0.3944474180093262 
+afghani 0.11398800115393451 
+Fitness: -0.9263234708076507
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.018977808195166212 
+chinese 0.32876231420943053 
+italian 1.2717214216961923 
+afghani 0.108675142291512 
+Fitness: 1.7281366863923011
+
+**
+Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:2 Dish Id:14 Quantity:1 Dish Id:13 Quantity:2 indian 0.02105506491545894 
+chinese 0.365414554733646 
+italian 1.383611911700819 
+afghani 0.10524003623188405 
+Fitness: -1.8753215675818078
+
+**
+Dish Id:15 Quantity:1 Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 indian 0.01763668430335097 
+chinese 0.3650341526152697 
+italian 0.3944474180093262 
+afghani 0.11749495463590319 
+Fitness: 0.8946132095638502
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 Dish Id:13 Quantity:2 indian 0.04118095737160173 
+chinese 0.16143562751492266 
+italian 2.0355858345405897 
+afghani 0.04781180824355469 
+Fitness: -2.2860142276706688
+
+**
+Dish Id:2 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:3 indian 0.023522112685698638 
+chinese 0.27562025773438725 
+italian 1.8604122724305527 
+afghani 0.04781180824355469 
+Fitness: -2.207366451094193
+
+**
+Dish Id:12 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:10 Quantity:2 indian 0.011952952060888672 
+chinese 0.3127995449135539 
+italian 1.6227618703371953 
+afghani 0.04781180824355469 
+Fitness: 1.9953261755551925
+
+**
+Dish Id:8 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.017549058313999825 
+chinese 0.21908154378244737 
+italian 1.0471296949372086 
+afghani 0.12213394609093477 
+Fitness: 1.4058942431245907
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:6 Quantity:2 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 indian 0.05212323193819275 
+chinese 0.17122685185185185 
+italian 0.895888888888889 
+afghani 0.1152063492063492 
+Fitness: -1.2344453218852829
+
+**
+Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 indian 0.03379526104936204 
+chinese 0.2220307567912177 
+italian 1.11025920915551 
+afghani 0.04781180824355469 
+Fitness: 1.4138970352396445
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:2 Dish Id:5 Quantity:1 Dish Id:11 Quantity:2 Dish Id:8 Quantity:1 Dish Id:1 Quantity:1 indian 0.020907575590269265 
+chinese 0.25790829778593444 
+italian 1.8794774351283785 
+afghani 0.10715722842929316 
+Fitness: -2.2654505369338755
+
+**
+Dish Id:9 Quantity:2 Dish Id:3 Quantity:1 Dish Id:14 Quantity:1 indian 0.014859470031883825 
+chinese 0.39788762402861944 
+italian 0.3944474180093262 
+afghani 0.1098303994855719 
+Fitness: 0.9170249115554013
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:2 Dish Id:12 Quantity:1 Dish Id:1 Quantity:1 indian 0.02168714417944134 
+chinese 0.1523958055967642 
+italian 1.000958575830195 
+afghani 0.19036131866630623 
+Fitness: 1.3654028442727069
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:2 Dish Id:6 Quantity:1 indian 0.04226171016700995 
+chinese 0.0836706644262207 
+italian 1.9223683265571265 
+afghani 0.04781180824355469 
+Fitness: 2.0961125093939117
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:7 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.018747471285705447 
+chinese 0.18556217186213333 
+italian 1.4405352320356553 
+afghani 0.17096286265809219 
+Fitness: 1.8158077378415862
+
+**
+Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:2 Dish Id:14 Quantity:1 Dish Id:13 Quantity:2 indian 0.02105506491545894 
+chinese 0.365414554733646 
+italian 1.383611911700819 
+afghani 0.10524003623188405 
+Fitness: -1.8753215675818078
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:3 Dish Id:9 Quantity:1 Dish Id:13 Quantity:1 indian 0.020068944380917064 
+chinese 0.21097135086689123 
+italian 1.9834325019699919 
+afghani 0.04781180824355469 
+Fitness: -2.2622846054613546
+
+**
+Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:3 Quantity:2 Dish Id:14 Quantity:1 indian 0.045088377680365596 
+chinese 0.21662263013952623 
+italian 0.3944474180093262 
+afghani 0.11911494306154297 
+Fitness: 0.7752733688907609
+
+**
+Dish Id:2 Quantity:1 Dish Id:4 Quantity:1 Dish Id:1 Quantity:3 Dish Id:14 Quantity:1 indian 0.038869001287067655 
+chinese 0.3312848267392609 
+italian 0.3944474180093262 
+afghani 0.11954827408022059 
+Fitness: 0.8841495201158754
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:2 Dish Id:12 Quantity:1 Dish Id:1 Quantity:1 indian 0.02168714417944134 
+chinese 0.1523958055967642 
+italian 1.000958575830195 
+afghani 0.19036131866630623 
+Fitness: 1.3654028442727069
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.04354449394298267 
+chinese 0.18406890659475886 
+italian 1.7127571163686626 
+afghani 0.10563219398983957 
+Fitness: -2.0460027108962437
+
+**
+Dish Id:2 Quantity:1 Dish Id:9 Quantity:2 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 indian 0.0327211020471277 
+chinese 0.4119363096546145 
+italian 0.8089398023360287 
+afghani 0.04781180824355469 
+Fitness: 1.3014090222813257
+
+**
+Dish Id:2 Quantity:1 Dish Id:12 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:4 indian 0.01640673259503608 
+chinese 0.4877857624668 
+italian 0.7993032647902087 
+afghani 0.04781180824355469 
+Fitness: -1.3513075680955993
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.018977808195166212 
+chinese 0.32876231420943053 
+italian 1.2717214216961923 
+afghani 0.108675142291512 
+Fitness: 1.7281366863923011
+
+**
+Dish Id:6 Quantity:2 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 indian 0.038271387303386015 
+chinese 0.19822252328370674 
+italian 1.074785857879556 
+afghani 0.04781180824355469 
+Fitness: 1.3590915767102034
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:3 indian 0.031035233462508124 
+chinese 0.439775125596008 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.913069585311397
+
+**
+Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:2 Dish Id:9 Quantity:1 Dish Id:7 Quantity:2 Dish Id:3 Quantity:1 indian 0.03932566983902389 
+chinese 0.3868803713526525 
+italian 1.2676122982326448 
+afghani 0.04781180824355469 
+Fitness: -1.741630147667876
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 indian 0.03090411018164843 
+chinese 0.23564810112296145 
+italian 1.480357051264417 
+afghani 0.04781180824355469 
+Fitness: 1.7947210708125816
+
+**
+Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.03395033635229233 
+chinese 0.1597027213759831 
+italian 1.5394439311448835 
+afghani 0.11293929801561231 
+Fitness: 1.8460362868887712
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:2 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.04589151905056588 
+chinese 0.26409872461486145 
+italian 1.4054281159438862 
+afghani 0.10745538991654165 
+Fitness: -1.8228737495258551
+
+**
+Dish Id:2 Quantity:1 Dish Id:13 Quantity:1 indian 0.023467026176834067 
+chinese 0.0836706644262207 
+italian 1.425588136164476 
+afghani 0.04781180824355469 
+Fitness: 1.5805376350110856
+
+**
+Dish Id:2 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.029066379923935574 
+chinese 0.22587326027231833 
+italian 1.3963942931883313 
+afghani 0.11200273727218751 
+Fitness: 1.7633366706567728
+
+**
+Dish Id:5 Quantity:2 Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:10 Quantity:1 indian 0.04321593067350832 
+chinese 0.2465767116441779 
+italian 0.9032769329620904 
+afghani 0.04781180824355469 
+Fitness: 1.2408813835233312
+
+**
+Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 indian 0.02125721378840889 
+chinese 0.31786617014780444 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.7813826101890943
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:3 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.03312462094883369 
+chinese 0.2858904964266273 
+italian 1.4204180297104105 
+afghani 0.167336580545078 
+Fitness: -1.9067697276309494
+
+**
+Dish Id:4 Quantity:1 Dish Id:9 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:2 Dish Id:14 Quantity:1 Dish Id:13 Quantity:2 indian 0.02105506491545894 
+chinese 0.365414554733646 
+italian 1.383611911700819 
+afghani 0.10524003623188405 
+Fitness: -1.8753215675818078
+
+**
+Dish Id:6 Quantity:2 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 indian 0.038271387303386015 
+chinese 0.19822252328370674 
+italian 1.074785857879556 
+afghani 0.04781180824355469 
+Fitness: 1.3590915767102034
+
+**
+Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:2 Dish Id:9 Quantity:1 Dish Id:7 Quantity:2 Dish Id:3 Quantity:1 indian 0.03932566983902389 
+chinese 0.3868803713526525 
+italian 1.2676122982326448 
+afghani 0.04781180824355469 
+Fitness: -1.741630147667876
+
+**
+Dish Id:4 Quantity:1 Dish Id:7 Quantity:1 Dish Id:1 Quantity:1 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 indian 0.023561318755826764 
+chinese 0.29011139722769447 
+italian 0.871955250444953 
+afghani 0.11980676328502415 
+Fitness: 1.3054347297134985
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:2 Dish Id:12 Quantity:1 Dish Id:8 Quantity:1 Dish Id:6 Quantity:1 Dish Id:10 Quantity:1 indian 0.030517897207398306 
+chinese 0.1948730800782588 
+italian 1.3271734111262015 
+afghani 0.17337854741291528 
+Fitness: -1.7259429358247738
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:1 Dish Id:4 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 indian 0.0436384303605267 
+chinese 0.0836706644262207 
+italian 0.3944474180093262 
+afghani 0.20088728417707316 
+Fitness: 0.7226437969731467
+
+**
+Dish Id:12 Quantity:2 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:10 Quantity:1 indian 0.019156930468792212 
+chinese 0.32532529146682865 
+italian 1.6648665501635183 
+afghani 0.04781180824355469 
+Fitness: 2.0571605803426936
+
+**
+Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:7 Quantity:1 Dish Id:6 Quantity:1 Dish Id:1 Quantity:1 indian 0.032324913131708766 
+chinese 0.39350236872682043 
+italian 0.9089169009187396 
+afghani 0.04781180824355469 
+Fitness: 1.3825559910208236
+
+**
+Dish Id:12 Quantity:1 Dish Id:11 Quantity:1 Dish Id:9 Quantity:1 Dish Id:13 Quantity:1 indian 0.011952952060888672 
+chinese 0.23645276292335116 
+italian 1.6437964986812865 
+afghani 0.04781180824355469 
+Fitness: 1.940014021909081
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:1 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.02006495957461647 
+chinese 0.34419945338405583 
+italian 1.6380442675024378 
+afghani 0.10434290052326477 
+Fitness: -2.1066515809843747
+
+**
+Dish Id:15 Quantity:1 Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:7 Quantity:1 Dish Id:13 Quantity:1 indian 0.03167726112866671 
+chinese 0.19555168183872426 
+italian 1.4306015664913023 
+afghani 0.1147394925430951 
+Fitness: 1.7725700020017885
+
+**
+Dish Id:15 Quantity:1 Dish Id:12 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:13 Quantity:1 indian 0.020248524941891652 
+chinese 0.19291892643582256 
+italian 1.7415088176514275 
+afghani 0.10981623855215845 
+Fitness: 2.0644925075813
+
+**
+Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:2 Dish Id:9 Quantity:1 Dish Id:7 Quantity:2 Dish Id:3 Quantity:1 indian 0.03932566983902389 
+chinese 0.3868803713526525 
+italian 1.2676122982326448 
+afghani 0.04781180824355469 
+Fitness: -1.741630147667876
+
+**
+Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:3 Quantity:2 Dish Id:14 Quantity:1 indian 0.045088377680365596 
+chinese 0.21662263013952623 
+italian 0.3944474180093262 
+afghani 0.11911494306154297 
+Fitness: 0.7752733688907609
+
+**
+Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.0500613406115569 
+chinese 0.0836706644262207 
+italian 1.5506370611488658 
+afghani 0.04781180824355469 
+Fitness: 1.732180874430198
+
+**
+Dish Id:12 Quantity:2 Dish Id:5 Quantity:1 Dish Id:8 Quantity:1 Dish Id:9 Quantity:1 Dish Id:10 Quantity:1 indian 0.019156930468792212 
+chinese 0.32532529146682865 
+italian 1.6648665501635183 
+afghani 0.04781180824355469 
+Fitness: 2.0571605803426936
+
+**
+Dish Id:4 Quantity:1 Dish Id:8 Quantity:1 Dish Id:3 Quantity:2 Dish Id:14 Quantity:1 indian 0.045088377680365596 
+chinese 0.21662263013952623 
+italian 0.3944474180093262 
+afghani 0.11911494306154297 
+Fitness: 0.7752733688907609
+
+**
+Dish Id:12 Quantity:1 Dish Id:5 Quantity:2 Dish Id:9 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:1 Dish Id:13 Quantity:1 indian 0.04296062482437163 
+chinese 0.29221179069919545 
+italian 1.4796100603442555 
+afghani 0.04781180824355469 
+Fitness: -1.8625942841113772
+
+**
+Dish Id:11 Quantity:1 Dish Id:8 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:2 Dish Id:13 Quantity:1 indian 0.03396079130953239 
+chinese 0.3395832014320105 
+italian 1.4480091964786714 
+afghani 0.04781180824355469 
+Fitness: -1.869364997463769
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:2 Dish Id:12 Quantity:1 Dish Id:8 Quantity:1 Dish Id:6 Quantity:1 Dish Id:10 Quantity:1 indian 0.030517897207398306 
+chinese 0.1948730800782588 
+italian 1.3271734111262015 
+afghani 0.17337854741291528 
+Fitness: -1.7259429358247738
+
+**
+Dish Id:8 Quantity:1 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.021399055004033517 
+chinese 0.23445119441563356 
+italian 1.121894601669383 
+afghani 0.04781180824355469 
+Fitness: 1.4255566593326048
+
+**
+Dish Id:4 Quantity:2 Dish Id:7 Quantity:1 Dish Id:3 Quantity:1 Dish Id:1 Quantity:2 Dish Id:10 Quantity:1 Dish Id:14 Quantity:1 Dish Id:13 Quantity:1 indian 0.04288314644307436 
+chinese 0.3186421383914991 
+italian 1.328224211776784 
+afghani 0.10630535983907823 
+Fitness: -1.7960548564504355
+
+**
+Dish Id:5 Quantity:1 Dish Id:4 Quantity:1 Dish Id:11 Quantity:1 Dish Id:6 Quantity:1 Dish Id:3 Quantity:1 Dish Id:13 Quantity:1 indian 0.0500613406115569 
+chinese 0.0836706644262207 
+italian 1.5506370611488658 
+afghani 0.04781180824355469 
+Fitness: 1.732180874430198
+
+**
+Dish Id:2 Quantity:1 Dish Id:5 Quantity:1 Dish Id:8 Quantity:3 indian 0.031035233462508124 
+chinese 0.439775125596008 
+italian 0.3944474180093262 
+afghani 0.04781180824355469 
+Fitness: 0.913069585311397
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:1 Dish Id:4 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 indian 0.0436384303605267 
+chinese 0.0836706644262207 
+italian 0.3944474180093262 
+afghani 0.20088728417707316 
+Fitness: 0.7226437969731467
+
+**
+Dish Id:2 Quantity:1 Dish Id:15 Quantity:1 Dish Id:4 Quantity:1 Dish Id:6 Quantity:1 Dish Id:14 Quantity:1 indian 0.0436384303605267 
+chinese 0.0836706644262207 
+italian 0.3944474180093262 
+afghani 0.20088728417707316 
+Fitness: 0.7226437969731467
+
+**
