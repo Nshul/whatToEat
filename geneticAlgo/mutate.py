@@ -32,7 +32,7 @@ def mutate(individual, mutationRate):
             individual[i].qty = tempArrQty[i-startPtr]
     return individual
 
-def mutatePopulation ( population, mutationRate):
+def mutatePopulation ( population, noOfElite, mutationRate):
     """
     This function performs mutation on entire population
 
@@ -43,7 +43,9 @@ def mutatePopulation ( population, mutationRate):
     """
     popuLen = len(population)
     newPopu = []
-    for i in range(0,popuLen):
+    for i in range(0,noOfElite):
+        newPopu.append(population[i].copy())
+    for i in range(noOfElite,popuLen):
         mutantIndi = mutate(population[i],mutationRate)
         newPopu.append(mutantIndi)
     return newPopu

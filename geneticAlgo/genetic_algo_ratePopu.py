@@ -23,7 +23,7 @@ def rankDishes(population, cuisineScore, MaxQtyToBeOrdered):
 # print (temp)
 # print ("***")
 # cuisineScore = {"indian":0.33,"italian":0.45,"afghani":0.08,"chinese":0.14}
-# temp1 = rankDishes(temp, cuisineScore)
+# temp1 = rankDishes(temp, cuisineScore, 6)
 # print ("/*/*")
 # print (temp1)
 # print ("/*/*")
