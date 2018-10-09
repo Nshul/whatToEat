@@ -1,4 +1,5 @@
 import random
+from copy import deepcopy
 # from genetic_algo_gene import Dish
 
 
@@ -44,7 +45,7 @@ def mutatePopulation ( population, noOfElite, mutationRate):
     popuLen = len(population)
     newPopu = []
     for i in range(0,noOfElite):
-        newPopu.append(population[i].copy())
+        newPopu.append(deepcopy(population[i]))
     for i in range(noOfElite,popuLen):
         mutantIndi = mutate(population[i],mutationRate)
         newPopu.append(mutantIndi)

@@ -3,7 +3,7 @@ from selection import selection
 from crossover import crossover
 from mutate import mutatePopulation
 from genetic_algo_fitness import Fitness
-
+from copy import deepcopy
 
 def nextGeneration(currentPopulation, cuisineScore, maxQtyToBeOrdered, noOfElite, mutationRate, graphPoints, answer):
     """
@@ -21,7 +21,7 @@ def nextGeneration(currentPopulation, cuisineScore, maxQtyToBeOrdered, noOfElite
     graphPoints.append(populationRanked[0][1])
     
     if(answer.fitness<populationRanked[0][1]):
-        answer.ans = currentPopulation[populationRanked[0][0]].copy()
+        answer.ans = deepcopy(currentPopulation[populationRanked[0][0]])
         answer.fitness = populationRanked[0][1]
 
     selectedPopulationPool = selection(populationRanked, noOfElite)

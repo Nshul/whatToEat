@@ -1,4 +1,5 @@
 import random
+from copy import deepcopy
 
 def breed(chromosome1, chromosome2):
     """
@@ -32,14 +33,14 @@ def crossover( matingPool, origChromosomes, noOfElite):
     newChromosome = []
     # Copy the elite chromosomes and persist them to next generation
     for i in range(0, noOfElite):
-        newChromosome.append(origChromosomes[matingPool[i]].copy())
+        newChromosome.append(deepcopy(origChromosomes[matingPool[i]]))
     LowerPtrForCrossover = noOfElite
     UpperPtrForCrossover = sizeOfMatingPool-1
     while (LowerPtrForCrossover<UpperPtrForCrossover):
         ind1 = matingPool[LowerPtrForCrossover]
         ind2 = matingPool[UpperPtrForCrossover]
-        tempChromo1 = origChromosomes[ind1].copy()
-        tempChromo2 = origChromosomes[ind2].copy()
+        tempChromo1 = deepcopy(origChromosomes[ind1])
+        tempChromo2 = deepcopy(origChromosomes[ind2])
         breed(tempChromo1,tempChromo2)
         newChromosome.append(tempChromo1)
         newChromosome.append(tempChromo2)
@@ -47,7 +48,7 @@ def crossover( matingPool, origChromosomes, noOfElite):
         UpperPtrForCrossover-=1
     if(LowerPtrForCrossover==UpperPtrForCrossover):
         ind1 = matingPool[LowerPtrForCrossover]
-        tempChromo1 = origChromosomes[ind1].copy()
+        tempChromo1 = deepcopy(origChromosomes[ind1])
         newChromosome.append(tempChromo1)
 
     return newChromosome
