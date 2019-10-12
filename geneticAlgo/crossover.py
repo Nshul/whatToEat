@@ -13,8 +13,6 @@ def breed(chromosome1, chromosome2):
             temp = chromosome1[i]
             chromosome1[i] = chromosome2[i]
             chromosome2[i] = temp
-    # print (chromosome1)
-    # print (chromosome2)
     
 
 def crossover( matingPool, origChromosomes, noOfElite):
