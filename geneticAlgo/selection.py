@@ -25,9 +25,9 @@ def selection(population, noOfElite):
         matingPool.append(population[i][0])
     for i in range(0, len(population) - noOfElite):
         pieToBePickedInCircle = 100*random.random()
-        for i in range(0, len(population)):
-            if pieToBePickedInCircle <= popuPd.iat[i, 3]:
-                matingPool.append(population[i][0])
+        for j in range(0, len(population)):
+            if pieToBePickedInCircle <= popuPd.iat[j, 3]:
+                matingPool.append(population[j][0])
                 break
     return matingPool
 
