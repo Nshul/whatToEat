@@ -1,4 +1,5 @@
 import random
+from copy import deepcopy
 # from genetic_algo_gene import Dish
 
 
@@ -32,7 +33,7 @@ def mutate(individual, mutationRate):
             individual[i].qty = tempArrQty[i-startPtr]
     return individual
 
-def mutatePopulation ( population, mutationRate):
+def mutatePopulation ( population, noOfElite, mutationRate):
     """
     This function performs mutation on entire population
 
@@ -43,9 +44,9 @@ def mutatePopulation ( population, mutationRate):
     """
     popuLen = len(population)
     newPopu = []
-    for i in range(0,popuLen):
-        mutantIndi = mutate(population[i],mutationRate)
-        newPopu.append(mutantIndi)
+    newPopu.extend([deepcopy(individual) for individual in population[:noOfElite]])
+    newPopu.extend([mutate(individual, mutationRate) for individual in population[noOfElite:popuLen]])
+
     return newPopu
 
 # mutate function test
