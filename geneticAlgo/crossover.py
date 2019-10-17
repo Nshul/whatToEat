@@ -10,9 +10,7 @@ def breed(chromosome1, chromosome2):
         k = random.random()
         # print (k)
         if(k>=0.5):
-            temp = chromosome1[i]
-            chromosome1[i] = chromosome2[i]
-            chromosome2[i] = temp
+            chromosome1[i], chromosome2[i] = chromosome2[i], chromosome1[i]
     
 
 def crossover( matingPool, origChromosomes, noOfElite):

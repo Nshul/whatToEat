@@ -44,11 +44,9 @@ def mutatePopulation ( population, noOfElite, mutationRate):
     """
     popuLen = len(population)
     newPopu = []
-    for i in range(0,noOfElite):
-        newPopu.append(deepcopy(population[i]))
-    for i in range(noOfElite,popuLen):
-        mutantIndi = mutate(population[i],mutationRate)
-        newPopu.append(mutantIndi)
+    newPopu.extend([deepcopy(individual) for individual in population[:noOfElite]])
+    newPopu.extend([mutate(individual, mutationRate) for individual in population[noOfElite:popuLen]])
+
     return newPopu
 
 # mutate function test

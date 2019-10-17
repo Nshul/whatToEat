@@ -9,7 +9,5 @@ def createInitialPopu(maxDishes, initialPopuSize):
 
     initialPopuSize -> Size of initial population pool
     """
-    population = []
-    for i in range(1, initialPopuSize+1):
-        population.append(createChromosome(maxDishes))
+    population = [createChromosome(maxDishes) for i in range(initialPopuSize)]
     return population
